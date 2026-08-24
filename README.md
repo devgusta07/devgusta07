@@ -2,7 +2,7 @@
 
 ## 🚀 Desenvolvedor Back-end Java
 
-Desenvolvedor focado na construção de aplicações robustas, escaláveis e de alta performance. Tenho como foco principal o ecossistema **Java** e **Spring Boot**, desenvolvendo APIs RESTful, integrando bancos de dados relacionais e aplicando as melhores práticas de arquitetura de software.
+Desenvolvedor focado na construção de aplicações robustas, escaláveis e de alta performance. Tenho como foco principal o ecossistema **Java** e **Spring Boot**, desenvolvendo APIs REST, integrando bancos de dados relacionais e aplicando as melhores práticas de arquitetura de software.
 
 ---
 
