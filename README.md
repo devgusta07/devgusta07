@@ -25,15 +25,6 @@ Desenvolvedor focado na construção de aplicações robustas, escaláveis e de 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
-</p>
-
----
-
 ### 📫 Como me encontrar
 
 - **LinkedIn:** [https://www.linkedin.com/in/gustavosoliveiradev](https://www.linkedin.com/in/gustavosoliveiradev)
